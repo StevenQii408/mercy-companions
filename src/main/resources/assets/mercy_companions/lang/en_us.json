@@ -1,0 +1,18 @@
+{
+  "item.mercy_companions.mercy_sword": "Sword of Mercy",
+  "enchantment.mercy_companions.covenant": "Covenant",
+  "enchantment.mercy_companions.covenant.desc": "Adds one companion slot per level, up to seven.",
+  "item.mercy_companions.companion_bag": "Companion Bag",
+  "tooltip.mercy_companions.bag.loading": "Loading companions…",
+  "tooltip.mercy_companions.bag.unavailable": "Companion records unavailable",
+  "tooltip.mercy_companions.bag.counts": "Stored %s · ↑Active %s · Locked %s",
+  "tooltip.mercy_companions.bag.hint": "Scroll to browse · Right-click to confirm",
+  "tooltip.mercy_companions.bag.next": "Next: %s",
+  "tooltip.mercy_companions.bag.health": "HP %s/%s",
+  "tooltip.mercy_companions.bag.overflow": "Beyond covenant capacity",
+  "tooltip.mercy_companions.bag.empty": "No companions yet",
+  "tooltip.mercy_companions.bag.none_stored": "No companion ready to summon",
+  "tooltip.mercy_companions.bag.stored": "Stored: %s",
+  "tooltip.mercy_companions.bag.active": "Active: %s",
+  "tooltip.mercy_companions.bag.locked": "Locked: %s"
+}

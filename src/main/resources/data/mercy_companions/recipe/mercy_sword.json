@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:wooden_sword",
+    "minecraft:string",
+    "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "mercy_companions:mercy_sword",
+    "count": 1
+  }
+}

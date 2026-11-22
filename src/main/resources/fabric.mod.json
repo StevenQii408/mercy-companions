@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "mercy_companions",
+  "version": "0.4.2",
+  "name": "仁慈之剑 · Mercy Companions",
+  "description": "以仁慈之剑完成最后一击，与敌对生物缔结契约。",
+  "authors": ["Qi"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.mercy.companion.MercyMod"],
+    "client": ["dev.mercy.companion.client.MercyClient"]
+  },
+  "mixins": ["mixins.ai.json", "mercy_companions.client.mixins.json"],
+  "depends": {"fabricloader": ">=0.20.1", "minecraft": "~26.3", "java": ">=25", "fabric-api": ">=0.166.2"}
+}

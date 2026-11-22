@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:leather",
+    "minecraft:string",
+    "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "mercy_companions:companion_bag",
+    "count": 1
+  }
+}

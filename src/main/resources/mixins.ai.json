@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dev.mercy.companion.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "MobAccessor", "LivingEntityMixin", "MobMixin", "BrainMixin", "CubeMobMixin",
+    "CreeperMixin", "EntityMixin", "WitherMixin", "WitherSkullMixin", "WitchMixin",
+    "WardenMixin", "ProjectileMixin", "ExplosionMixin", "CreakingMixin", "CreakingHeartAccessor",
+    "ShulkerMixin", "ZombieMixin", "PhantomAccessor", "CubeMoveControlAccessor",
+    "HorseMixin", "SulfurCubeMixin", "VillagerMixin", "VindicatorAccessor", "VexMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}

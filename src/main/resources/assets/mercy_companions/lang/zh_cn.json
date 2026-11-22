@@ -1,0 +1,18 @@
+{
+  "item.mercy_companions.mercy_sword": "仁慈之剑",
+  "enchantment.mercy_companions.covenant": "契约",
+  "enchantment.mercy_companions.covenant.desc": "每级增加一个伙伴名额，最多七个。",
+  "item.mercy_companions.companion_bag": "伙伴收纳袋",
+  "tooltip.mercy_companions.bag.loading": "正在读取伙伴…",
+  "tooltip.mercy_companions.bag.unavailable": "伙伴记录暂不可用",
+  "tooltip.mercy_companions.bag.counts": "袋内 %s · ↑出战 %s · 封存 %s",
+  "tooltip.mercy_companions.bag.hint": "袋格上滚轮浏览 · 右键收回 / 置顶",
+  "tooltip.mercy_companions.bag.next": "下次：%s",
+  "tooltip.mercy_companions.bag.health": "生命 %s/%s",
+  "tooltip.mercy_companions.bag.overflow": "超出契约名额",
+  "tooltip.mercy_companions.bag.empty": "袋内暂无伙伴",
+  "tooltip.mercy_companions.bag.none_stored": "暂无可召唤的伙伴",
+  "tooltip.mercy_companions.bag.stored": "袋内：%s",
+  "tooltip.mercy_companions.bag.active": "已出战：%s",
+  "tooltip.mercy_companions.bag.locked": "封存：%s"
+}
